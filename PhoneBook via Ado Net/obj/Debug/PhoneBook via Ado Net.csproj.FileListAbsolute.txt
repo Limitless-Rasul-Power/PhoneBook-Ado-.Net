@@ -1,0 +1,37 @@
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\PhoneBook via Ado Net.exe.config
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\PhoneBook via Ado Net.exe
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\PhoneBook via Ado Net.pdb
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\CommonServiceLocator.dll
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Dictionaries\ButtonsDictionary.baml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\EntryUserControl.g.cs
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\InsertUserControl.g.cs
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net_MarkupCompile.cache
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net_MarkupCompile.lref
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\App.baml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\MainWindow.baml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\EntryUserControl.baml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\InsertUserControl.baml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.g.resources
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook_via_Ado_Net.Properties.Resources.resources
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.csproj.CopyComplete
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.exe
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\PhoneBook via Ado Net.pdb
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\DeleteUserControl.g.cs
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\DeleteUserControl.baml
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\UpdateUserControl.g.cs
+C:\Users\Admin\source\repos\PhoneBook via Ado Net\PhoneBook via Ado Net\obj\Debug\Views\User Controls\UpdateUserControl.baml
